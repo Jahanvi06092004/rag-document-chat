@@ -634,12 +634,12 @@ Through this project, the following concepts were implemented:
 
 # Author
 
-**Ritik Kumar**
+**Jahanvi Mishra**
 
-B.Tech — Electronics & Instrumentation Engineering  
-National Institute of Technology Silchar
+B.Tech — Mechanical Engineering 
+National Institute of Technology Agartala
 
-GitHub: https://github.com/Ritik40barnwal
+
 
 ---
 
